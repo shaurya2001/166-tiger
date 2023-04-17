@@ -1,1 +1,3 @@
-# 166-tiger
+# PRO-C166-TA
+
+Teacher Activity for C166
